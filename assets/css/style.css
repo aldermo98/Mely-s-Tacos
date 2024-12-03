@@ -3487,6 +3487,12 @@ textarea.form-control.is-invalid {
 .dark-footer .bg-white span {
   color: var(--body-color);
 }
+.dark-footer #map a{
+  color: initial;
+}
+.dark-footer #map a:hover{
+  color: var(--secondary-color);
+}
 
 .widget_title.text-20 {
   font-size: 20px !important;
